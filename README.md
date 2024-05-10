@@ -8,4 +8,4 @@ A fast REST api built with Rust.
 
 ## Tech Stack
 
-Rust
+Rust, Docker
